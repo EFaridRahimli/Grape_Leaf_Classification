@@ -30,7 +30,7 @@ Disease outbreaks can significantly impact crop yield and wine quality. By imple
 * **Optimization:** Identified Experiment #4 as the best-performing architecture for production.
 * **Metrics:**.
 
-## 📦 Requirements
+## Requirements
 * TensorFlow / Keras
 * NumPy / Pandas
 * Matplotlib / Seaborn / Plotly
